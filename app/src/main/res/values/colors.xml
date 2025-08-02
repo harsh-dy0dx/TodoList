@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Palette -->
+    <color name="background">#F7F8FA</color>
+    <color name="text_primary">#1D2A3A</color>
+    <color name="text_secondary">#7A809D</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="accent_primary">#7B61FF</color>
+    <color name="accent_secondary">#FF7A5C</color>
+
+    <!-- Original Colors (for reference) -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Priority Colors -->
+    <color name="priority_high">#F44336</color>
+    <color name="priority_medium">#FFC107</color>
+    <color name="priority_low">#4CAF50</color>
+</resources>
